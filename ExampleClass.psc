@@ -17,4 +17,8 @@ Proceso EjemploClase
 		FinPara
 		Escribir "";
 	FinPara
+	
+	Repetir
+		secuencia_de_acciones
+	Hasta Que expresion_logica
 FinProceso 
